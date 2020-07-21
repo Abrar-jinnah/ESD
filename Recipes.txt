@@ -7,4 +7,4 @@ Welcome to telsco kitchen
 
 kheer
 pasta
-chicken 
+chicken Fry
