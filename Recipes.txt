@@ -9,9 +9,11 @@ kheer
 pasta
 chicken Fry
 
+beans
+pizza
 
 
-
+done my changes 
 thank you
 
 
